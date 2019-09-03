@@ -1,0 +1,43 @@
+{
+  "name": "us-states-mortality-rates-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "react-dev": "webpack -d --watch",
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingwithlis/US-states-mortality-rates-map.git"
+  },
+  "author": "Maria LISandra Alfonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingwithlis/US-states-mortality-rates-map/issues"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "datamaps": "^0.5.9",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "request": "^2.87.0",
+    "underscore": "^1.9.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "nodemon": "^1.18.4",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "homepage": "https://github.com/codingwithlis/US-states-mortality-rates-map#readme"
+}
+
+
