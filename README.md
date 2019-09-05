@@ -1,6 +1,6 @@
 # Medical Data Visualization
 
-[Project Demo](http://ec2-18-224-139-13.us-east-2.compute.amazonaws.com:3000/)
+[Medical Data Visualization Demo](http://ec2-18-224-139-13.us-east-2.compute.amazonaws.com:3000/)
 
 ## What it is:
 “Medical Date Visualization” is a single page web application that illustrates the mortality rate, on a state-by-state basis by rendering a US Map data visualization based on real, current, medical data from the [Centers for Medicare & Medicaid Services' (CMS) Hospital Quality Initiative.](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/HospitalCompare.html)
