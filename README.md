@@ -4,7 +4,7 @@
 “Medical Date Visualization” is a single page web application that illustrates the mortality rate, on a state-by-state basis by rendering a US Map data visualization based on real, current, medical data from the [Centers for Medicare & Medicaid Services' (CMS) Hospital Quality Initiative.](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/HospitalCompare.html)
 
 ## How it works:
-- Users will be prompted to a main page that includes a single “Render Map!” button.
+- Users will be prompted to a main page that includes a single `Render Map!` button.
 - Once this button is clicked a US states map will be rendered. 
 - Each state will be colored in orange, with a specific shade, the least intense the color orange is the lower the mortality rate for that state is and the more intense it is the higher the mortality rate for that state is. 
 - When the mouse hovers over the states it displays the mortality rate for that specific state. 
