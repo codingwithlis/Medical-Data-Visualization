@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Medical Data Visualization
 
 ## What it is:
