@@ -18,7 +18,7 @@
     "url": "https://github.com/codingwithlis/US-states-mortality-rates-map/issues"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "datamaps": "^0.5.9",
     "express": "^4.16.4",
